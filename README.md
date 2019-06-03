@@ -1,23 +1,57 @@
-# 본인의 과제명 작성
-
 학과 | 학번 | 성명
 ---- | ---- | ---- 
+사학과 |201704109 |김소윤
 본인학과 |본인학번 |본인학성명
 
 
 ## 프로젝트 개요
-본인의 프로젝트 개요에 대하여 작성합니다.
+![Alt text](/path/to/img.jpg "기말보고서 흐름도파일.jpg")
+
 
 ## 사용한 공공데이터 
-[데이터보기](https://github.com/cybermin/python2019/blob/master/%EB%B6%80%EC%82%B0%EA%B5%90%ED%86%B5%EA%B3%B5%EC%82%AC_%EB%8F%84%EC%8B%9C%EC%B2%A0%EB%8F%84%EC%97%AD%EC%82%AC%EC%A0%95%EB%B3%B4_20190520.csv)
+1. XML 데이터 - SearchKindOpenapiList.xml
+
+   [데이터예시보기](https://github.com/s745812369s/python_project-2019-01/blob/master/SearchKindOpenapiList2.xml)
+
+2. 문화재 상세 검색 Open api 데이터
+
+   [데이터보기](http://www.cha.go.kr/cha/SearchKindOpenapiDt.do?ccbaKdcd=11&ccbaAsno=00030000&ccbaCtcd=11 )
+
+3. 문화재 나레이션  Open api 데이터
+
+   [데이터보기](http://www.cha.go.kr/cha/SearchVoiceOpenapi.do)
 
 ## 소스
-* [링크로 소스 내용 보기](https://github.com/cybermin/python2019/blob/master/tes.py) 
+1. main_choice.py	
+
+   [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/main_choice.py) 
+
+2. get_url.py
+
+   [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/get_url.py) 
+
+3. namesearch.py	
+
+   [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/namesearch.py) 
+
+4. imageprint.py	
+
+   [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/imageprint.py) 
+
+5. narr.py
+
+   [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/narr.py)
+ 
+* 참고
+[pip install list](https://github.com/s745812369s/python_project-2019-01/blob/master/pip%20install%20list.txt)
+
 
 * 코드 삽입
 ~~~python
 items = list(range(1,11))
-
 for i in items:
     print(i)
 ~~~
+
+
+
