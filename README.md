@@ -57,7 +57,7 @@
 [pip install list](https://github.com/s745812369s/python_project-2019-01/blob/master/pip%20install%20list.txt)
 
 
-* 코드 삽입
+* main_choice 코드 삽입 
 ~~~python
 #main_choice.py
 import xml.etree.ElementTree as ET
@@ -137,6 +137,7 @@ elif language == "en" or language == "jpn" or language == "chn":
 else : print("언어를 다시 선택해주십시오.")
 ~~~
 
+* get_url 코드 삽입 
 ~~~python
 #get_url.py
 import xml.etree.ElementTree as ET
@@ -170,6 +171,7 @@ def main(user_ht) :
     return url
 ~~~
 
+* namesearch 코드 삽입 
 ~~~python
 #namesearch.py
 import xml.etree.ElementTree as ET
@@ -192,6 +194,7 @@ def main(url) :
             print("설명 : ", child.findtext("content"))
 ~~~
 
+* imageprint 코드 삽입 
 ~~~python
 #imageprint.py
 import tkinter as tk
@@ -222,6 +225,7 @@ def main(url) :
     root.mainloop()
 ~~~
 
+* narr 코드 삽입 
 ~~~python
 #narr.py
 import xml.etree.ElementTree as ET
