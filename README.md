@@ -22,24 +22,27 @@
    [데이터보기](http://www.cha.go.kr/cha/SearchVoiceOpenapi.do)
 
 ## 소스
-* 1. main_choice.py	
+1. main_choice.py	
+
 [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/main_choice.py) 
-* 2. get_url.py
+
+2. get_url.py
+
 [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/get_url.py) 
-* 3. namesearch.py	
+
+3. namesearch.py	
+
 [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/namesearch.py) 
-* 4. imageprint.py	
+
+4. imageprint.py	
+
 [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/imageprint.py) 
-* 5. narr.py
+
+5. narr.py
+
 [링크로 소스 내용 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/narr.py)
 
-* 코드 삽입
-~~~python
-items = list(range(1,11))
 
-for i in items:
-    print(i)
-~~~
 
 * 참고
 [pip install list](https://github.com/s745812369s/python_project-2019-01/blob/master/pip%20install%20list.txt)
