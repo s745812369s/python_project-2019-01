@@ -3,7 +3,7 @@ import xml.etree.ElementTree as ET
 import urllib.request
 
 def main(user_ht) :
-    e = ET.parse('SearchKindOpenapiList.xml') #element instance 생성
+    e = ET.parse('SearchKindOpenapiList.xml')
     root = e.getroot()
 
     name_list = []
