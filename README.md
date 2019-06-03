@@ -22,7 +22,7 @@
 ## 사용한 공공데이터 
 1. XML 데이터 - SearchKindOpenapiList.xml
 
-   [데이터예시보기](https://github.com/s745812369s/python_project-2019-01/blob/master/SearchKindOpenapiList2.xml)
+   [데이터 예시 보기](https://github.com/s745812369s/python_project-2019-01/blob/master/SearchKindOpenapiList2.xml)
 
 2. 문화재 상세 검색 Open api 데이터
 
