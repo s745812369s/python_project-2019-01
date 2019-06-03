@@ -1,8 +1,6 @@
 학과 | 학번 | 성명
 ---- | ---- | ---- 
 사학과 |201704109 |김소윤
-본인학과 |본인학번 |본인학성명
-
 
 ## 프로젝트 개요
 ![기말보고서 흐름도파일](https://github.com/s745812369s/python_project-2019-01/blob/master/%EA%B8%B0%EB%A7%90%EB%B3%B4%EA%B3%A0%EC%84%9C%20%ED%9D%90%EB%A6%84%EB%8F%84%ED%8C%8C%EC%9D%BC.jpg)
