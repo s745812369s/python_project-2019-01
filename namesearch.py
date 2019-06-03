@@ -10,7 +10,7 @@ def main(url) :
 
     for child in root1.iter("item") :
         print("=" * 180)
-        print("종류 : ", child.findtext("ccmaName"), child.findtext("crltsnoNm"), " 호"  ) # 국보~~~~
+        print("종류 : ", child.findtext("ccmaName"), child.findtext("crltsnoNm"), " 호"  )
         print("이름 : ", child.findtext("ccbaMnm1") )
         if  child.findtext("ccbaCtcdNm") == "기타 ."  :
             pass
