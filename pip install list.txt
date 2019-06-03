@@ -1,0 +1,6 @@
+pip install list
+
+1. pillow
+2. requests
+3. python-vlc
+https://get.videolan.org/vlc/2.2.8/win64/vlc-2.2.8-win64.exe에서 vlc프로그램 설치 후 pip install python-vlc
