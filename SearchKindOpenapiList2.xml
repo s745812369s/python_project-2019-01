@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+
+
+
+
+
+<result>
+<totalCnt>15410</totalCnt>
+<pageUnit>10</pageUnit>
+<pageIndex>1</pageIndex>	
+
+<item>
+<sn>1</sn>
+<no>1</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>1</crltsnoNm>
+<ccbaMnm1><![CDATA[서울 숭례문]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[서울 崇禮門]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[중구]]></ccsiName>
+<ccbaAdmin><![CDATA[문화재청 덕수궁관리소]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00010000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100010000</ccbaCpno>
+<longitude>126.975312653</longitude>
+<latitude>37.5599752214</latitude>
+
+</item>
+
+<item>
+<sn>2</sn>
+<no>2</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>2</crltsnoNm>
+<ccbaMnm1><![CDATA[서울 원각사지 십층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[서울 圓覺寺址 十層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[종로구]]></ccsiName>
+<ccbaAdmin><![CDATA[종로구청]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00020000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100020000</ccbaCpno>
+<longitude>126.988207994</longitude>
+<latitude>37.5715461695</latitude>
+
+</item>
+
+<item>
+<sn>3</sn>
+<no>3</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>3</crltsnoNm>
+<ccbaMnm1><![CDATA[서울 북한산 신라 진흥왕 순수비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[서울 北漢山 新羅 眞興王 巡狩碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[서울]]></ccbaCtcdNm>
+<ccsiName><![CDATA[용산구]]></ccsiName>
+<ccbaAdmin><![CDATA[국립중앙박물관]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>11</ccbaCtcd>
+<ccbaAsno>00030000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1111100030000</ccbaCpno>
+<longitude>126.980350242</longitude>
+<latitude>37.5240413763</latitude>
+
+</item>
+
+<item>
+<sn>4</sn>
+<no>220</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>4</crltsnoNm>
+<ccbaMnm1><![CDATA[여주 고달사지 승탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[驪州 高達寺址 僧塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[경기]]></ccbaCtcdNm>
+<ccsiName><![CDATA[여주시]]></ccsiName>
+<ccbaAdmin><![CDATA[여주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>31</ccbaCtcd>
+<ccbaAsno>00040000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113100040000</ccbaCpno>
+<longitude>127.652160778</longitude>
+<latitude>37.3939072455</latitude>
+
+</item>
+
+<item>
+<sn>5</sn>
+<no>238</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>5</crltsnoNm>
+<ccbaMnm1><![CDATA[보은 법주사 쌍사자 석등]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[報恩 法住寺 雙獅子 石燈]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[보은군]]></ccsiName>
+<ccbaAdmin><![CDATA[법주사]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>33</ccbaCtcd>
+<ccbaAsno>00050000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113300050000</ccbaCpno>
+<longitude>127.833219376</longitude>
+<latitude>36.5421679404</latitude>
+
+</item>
+
+<item>
+<sn>6</sn>
+<no>239</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>6</crltsnoNm>
+<ccbaMnm1><![CDATA[충주 탑평리 칠층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[忠州 塔坪里 七層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[충주시]]></ccsiName>
+<ccbaAdmin><![CDATA[충주시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>33</ccbaCtcd>
+<ccbaAsno>00060000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113300060000</ccbaCpno>
+<longitude>127.866630083</longitude>
+<latitude>37.0158885405</latitude>
+
+</item>
+
+<item>
+<sn>7</sn>
+<no>251</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>7</crltsnoNm>
+<ccbaMnm1><![CDATA[천안 봉선홍경사 갈기비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[天安 奉先弘慶寺 碣記碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[천안시]]></ccsiName>
+<ccbaAdmin><![CDATA[천안시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00070000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400070000</ccbaCpno>
+<longitude>127.134710477</longitude>
+<latitude>36.9431519503</latitude>
+
+</item>
+
+<item>
+<sn>8</sn>
+<no>252</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>8</crltsnoNm>
+<ccbaMnm1><![CDATA[보령 성주사지 낭혜화상탑비]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[保寧 聖住寺址 郎慧和尙塔碑]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[보령시]]></ccsiName>
+<ccbaAdmin><![CDATA[보령시]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00080000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400080000</ccbaCpno>
+<longitude>126.655469091</longitude>
+<latitude>36.3446996913</latitude>
+
+</item>
+
+<item>
+<sn>9</sn>
+<no>253</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>9</crltsnoNm>
+<ccbaMnm1><![CDATA[부여 정림사지 오층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[扶餘 定林寺址 五層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[충남]]></ccbaCtcdNm>
+<ccsiName><![CDATA[부여군]]></ccsiName>
+<ccbaAdmin><![CDATA[부여군]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>34</ccbaCtcd>
+<ccbaAsno>00090000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113400090000</ccbaCpno>
+<longitude>126.913363437</longitude>
+<latitude>36.279297352</latitude>
+
+</item>
+
+<item>
+<sn>10</sn>
+<no>281</no>
+<ccmaName><![CDATA[국보]]></ccmaName>
+<crltsnoNm>10</crltsnoNm>
+<ccbaMnm1><![CDATA[남원 실상사 백장암 삼층석탑]]></ccbaMnm1>
+<ccbaMnm2><![CDATA[南原 實相寺 百丈庵 三層石塔]]></ccbaMnm2>
+<ccbaCtcdNm><![CDATA[전북]]></ccbaCtcdNm>
+<ccsiName><![CDATA[남원시]]></ccsiName>
+<ccbaAdmin><![CDATA[백장암]]></ccbaAdmin>
+<ccbaKdcd>11</ccbaKdcd>
+<ccbaCtcd>35</ccbaCtcd>
+<ccbaAsno>00100000</ccbaAsno>
+<ccbaCncl>N</ccbaCncl>
+<ccbaCpno>1113500100000</ccbaCpno>
+<longitude>127.619971569</longitude>
+<latitude>35.4425391242</latitude>
+
+</item>
+	
+</result>
