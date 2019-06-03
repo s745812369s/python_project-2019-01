@@ -3,4 +3,4 @@ pip install list
 1. pillow
 2. requests
 3. python-vlc
-https://get.videolan.org/vlc/2.2.8/win64/vlc-2.2.8-win64.exe¿¡¼­ vlcÇÁ·Î±×·¥ ¼³Ä¡ ÈÄ pip install python-vlc
+https://get.videolan.org/vlc/2.2.8/win64/vlc-2.2.8-win64.exeì—ì„œ í”„ë¡œê·¸ë¨ ì„¤ì¹˜ í›„ pip install python-vlc
